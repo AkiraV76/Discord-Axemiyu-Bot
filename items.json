@@ -1,0 +1,44 @@
+{
+    "Alimento": {
+        "comun": [
+            {"nombre": "Comun", "imagen": "https://i.pinimg.com/736x/c8/fe/19/c8fe190d18aaa6fc34cfba8c42bd0896.jpg"}
+        ],
+        "raro": [
+            {"nombre": "Raro", "imagen": "https://i.pinimg.com/736x/eb/41/79/eb41796485df43e43c10cba64d3ab4ab.jpg"}
+        ],
+            "epico": [
+            {"nombre": "Epico", "imagen": "https://i.pinimg.com/736x/4d/a9/8d/4da98dcbb45f03bc32338d947436504d.jpg"}
+        ],
+    "       legendario": [
+            {"nombre": "Legendario", "imagen": "https://i.pinimg.com/736x/d5/d8/35/d5d8358ecdcd5f8da3078f6f728e2736.jpg"}
+        ]
+    },
+    "Arma": {
+            "comun": [
+                {"nombre": "Comun", "imagen": "https://i.pinimg.com/736x/56/57/ca/5657ca30fe16e9e548d751ff42825514.jpg"}
+        ],
+            "raro": [
+                {"nombre": "Raro", "imagen": "https://i.pinimg.com/736x/39/fe/c6/39fec69f77f8c3a0f950d0db586820da.jpg"}
+        ],
+            "epico": [
+                {"nombre": "Epico", "imagen": "https://i.pinimg.com/736x/dc/e1/da/dce1da0e5f8622136989961c638eb1c2.jpg"}
+        ],
+            "legendario": [
+                {"nombre": "Legendario", "imagen": "https://i.pinimg.com/736x/30/3f/d6/303fd66e392d1016684a6b418394fd0b.jpg"}
+        ]
+    },
+    "Mineral": {
+            "comun": [
+                {"nombre": "Comun", "imagen": "https://i.pinimg.com/736x/c3/a1/c1/c3a1c1432995130471c089ee620ddb07.jpg"}
+    ],
+            "raro": [
+                {"nombre": "Raro", "imagen": "https://i.pinimg.com/736x/84/6c/3a/846c3ab4dfbbb0ebae330ba84b74713a.jpg"}
+    ],
+            "epico": [
+                {"nombre": "Epico", "imagen": "https://i.pinimg.com/736x/dd/a1/d4/dda1d4a425a4d6d84e10f2ef4c7149b1.jpg"}
+    ],
+            "legendario": [
+                {"nombre": "Legendario", "imagen": "https://i.pinimg.com/736x/13/23/c4/1323c4b7812112a2c274c72f2ccddbb5.jpg"}
+    ]
+    }
+}
